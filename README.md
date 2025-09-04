@@ -96,11 +96,6 @@ Syntax: su <user name>
 <img width="1024" height="334" alt="image" src="https://github.com/user-attachments/assets/7b9c6c30-cdd2-4e31-a194-cb1b57ff7aa4" />
 
 
-### 10)	mv Command
-
-The mv command is used to move a file or a directory form one location to another location.
-
-Syntax: mv <file name> <directory path>
 
 ## 11)	rename Command
 
